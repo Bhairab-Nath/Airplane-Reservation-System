@@ -1,2 +1,2 @@
 # Airplane-Reservation-System
-A project that I made as a first semester project of B.Sc.CSIT, Tribhuvan University, Nepal
+A C project developed in my first-semester of B.Sc.CSIT.
